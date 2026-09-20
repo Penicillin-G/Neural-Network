@@ -35,7 +35,7 @@ python and_logic_gate.py
 
 Ensure that the required dependencies are installed before running the scripts.
 
-Learning Outcomes
+## Learning Outcomes
 
 Through this project, I am developing a practical understanding of neural network fundamentals, including how model parameters are initialized, how errors propagate backward, and how gradient descent adjusts weights and biases during training.
 
