@@ -18,7 +18,6 @@ The project explores the fundamental mathematics behind neural networks through 
 ## Technologies Used
 * Python
 * NumPy
-* Matplotlib
 
 ## Project Structure
 
