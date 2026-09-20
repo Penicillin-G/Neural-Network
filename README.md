@@ -1,5 +1,24 @@
 # Neural-Network
 
+## Overview
+
+A beginner-friendly implementation of a neural network built from scratch using Python and NumPy, without deep learning frameworks such as TensorFlow or PyTorch.
+
+The project explores the fundamental mathematics behind neural networks through a simple binary classification task: learning the logical OR function.
+
+## Objectives
+Understand how artificial neurons process inputs.
+Implement forward propagation and sigmoid activation.
+Calculate prediction error using binary cross-entropy.
+Implement backpropagation and gradient descent.
+Train a model using an iterative training loop.
+Track and visualize training loss.
+Organize the network into a reusable Python class.
+
+## Technologies Used
+Python
+NumPy
+Matplotlib
 ## Project Structure
 
 ```text
