@@ -16,9 +16,10 @@ Track and visualize training loss.
 Organize the network into a reusable Python class.
 
 ## Technologies Used
-Python
-NumPy
-Matplotlib
+* Python
+* NumPy
+* Matplotlib
+
 ## Project Structure
 
 ```text
